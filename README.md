@@ -36,6 +36,8 @@ Avant de commencer, assurez-vous d'avoir installé sur votre machine :
 
 ## Contact
 
-Pour toute question ou suggestion, veuillez me contacter sur linkedin : https://www.linkedin.com/in/yasmine-u-0033a9166/
+Pour toute question ou suggestion, veuillez me contacter sur :
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmine-u-0033a9166/)
 
 Merci de votre intérêt :)
